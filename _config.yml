@@ -48,7 +48,7 @@ author_work_experiences:
               description: Understand and solve business problems by creating and deploying ML models.
               visibility: true
             - company_name: dormouse
-              company_logo: dormouse.jpg
+              company_logo: dormouse.png
               company_url: https://dormouse.com/
               designation: Quantitative Analys
               description: Research-oriented role, with heavy use of statistics and devOps.
