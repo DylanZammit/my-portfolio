@@ -5,7 +5,7 @@ summary: Using the Double-Poisson model to model teams' attacking and defensive 
 # author: xplor4r
 date: '2023-09-26'
 category: data science
-thumbnail: /assets/img/football_betting.jpg
+thumbnail: /assets/img/football_betting.png
 keywords: statistics, poisson, football, odds, betting, data science, python
 usemathjax: true
 # permalink: /blog/added-latex-equations-support/
