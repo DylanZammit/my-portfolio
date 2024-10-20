@@ -20,7 +20,7 @@ urls:
 
 author_logo: profile.jpg
 author: Dylan Zammit
-author_bio: Hi, my name is Dylan Zammit!
+author_bio: Hi, my name is Dylan Zammit! I'm a Data Science enthusiast with a passion for coding and solving complex problems. I love diving into data, extracting insights, and building solutions that make a real impact.
 author_email: "dylanzam@gmail.com"
 author_location: Malta
 author_website_url: "https://dylanzammit.github.io/"
@@ -91,7 +91,7 @@ author_project_details:
                 project_description: Use of simulation to find optimal Blackjack strategy.
                 project_url: https://www.linkedin.com/pulse/how-win-blackjack-51-time-dylan-zammit
                 visibility: true
-              - project_thumbnail: wedding.jpg.png
+              - project_thumbnail: wedding.jpg
                 project_title: Optimal Wedding Seating
                 project_description: Using Graph Theory to find optimal wedding seating placement.
                 project_url: https://github.com/DylanZammit/OptimalWeddingSeating
