@@ -31,27 +31,27 @@ hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg.
 author_work_experiences:
             - company_name: Gaming Innovation Group
               company_logo: gig.jpg
-              company_url: https://google.com
+              company_url: https://www.gig.com/
               designation: Data Scientist
-              description: Worked on various Google Products
+              description: Create E2E Data Science products.
               visibility: true
             - company_name: Tipico
               company_logo: tipico.jpg
-              company_url: https://microsoft.com
+              company_url: https://www.tipico-group.com/en/
               designation: BI Data Scientist
-              description: Worked on various Azure Cloud Products
+              description: Create optimal reporting workflows using python.
               visibility: true
             - company_name: Mr Messaging
               company_logo: mrm.jpg
-              company_url: https://microsoft.com
+              company_url: https://www.mrmessaging.net/
               designation: Data Scientist
-              description: Worked on various Azure Cloud Products
+              description: Understand and solve business problems by creating and deploying ML models.
               visibility: true
             - company_name: dormouse
               company_logo: dormouse.jpg
-              company_url: https://microsoft.com
+              company_url: https://dormouse.com/
               designation: Quantitative Analys
-              description: Worked on various Azure Cloud Products
+              description: Research-oriented role, with heavy use of statistics and devOps.
               visibility: true
 
 # Education
@@ -59,27 +59,37 @@ author_education_details:
               - college_logo: uom.png
                 college_name: University of Malta
                 college_url: https://www.um.edu.mt/
-                college_degree: MSc. Statistics
+                college_degree: M.Sc. Statistics
                 description: Gaussian Processes, Stochastic Differential Equations, Bayesian Statistics
                 visibility: true
               - college_logo: uom.png
                 college_name: University of Malta
                 college_url: https://www.um.edu.mt/
-                college_degree: Maths and Statistics and Operations Research
+                college_degree: B.Sc. Maths and Statistics and Operations Research
                 description: Bachelor of Science
                 visibility: true
 
 # Projects
 author_project_details:
-              - project_thumbnail: gamershub.png
-                project_title: Gamers Hub
-                project_description: A Platform built for Gamers and Game Devs
-                project_url: https://gamershub.in
+              - project_thumbnail: traffic_optimisation.jpg
+                project_title: Malta Traffic Optimisation
+                project_description: Using queues and simulation to optimise traffic light systems.
+                project_url: https://www.linkedin.com/pulse/malta-traffic-optimisation-dylan-zammit-gt0zf/?trackingId=02cTossURZym17r4vdOfiQ%3D%3D
                 visibility: true
-              - project_thumbnail: hack4r.PNG
-                project_title: Hack4r
-                project_description: A Platform built for Hackers and Penetration Testers
-                project_url: https://hack4r.com
+              - project_thumbnail: football_betting.png
+                project_title: Ranking EPL Football Teams
+                project_description: Using the Double-Poisson model to model teams' attacking and defensive strengths.
+                project_url: https://www.linkedin.com/pulse/ranking-epl-football-teams-dylan-zammit/?trackingId=L4jEcE2q9tVWtUUP3PFP%2Fw%3D%3D
+                visibility: true
+              - project_thumbnail: pigeon_racing.jpg
+                project_title: Pigeon Racing and AI
+                project_description: Analysing pigeon racing features and predicting speed and arrival rate.
+                project_url: https://www.linkedin.com/pulse/pigeon-racing-ai-dylan-zammit-t4dfe/?trackingId=Y6tYUPCSSsWKQeHIbhRKtw%3D%3D
+                visibility: true
+              - project_thumbnail: blackjack.png
+                project_title: Card Counting & Blackjack
+                project_description: Use of simulation to find optimal Blackjack strategy.
+                project_url: https://www.linkedin.com/pulse/how-win-blackjack-51-time-dylan-zammit-w738f/?trackingId=ktKaB7Z4T0m9mBLEmrqepA%3D%3D
                 visibility: true
 
 # social links
