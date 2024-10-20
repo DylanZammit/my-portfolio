@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "Added Latex Support"
-summary: Writing Equations using Latex
-author: xplor4r
-date: '2020-10-24 10:35:23 +0530'
-category: jekyll
-thumbnail: /assets/img/posts/code.jpg
-keywords: devlopr jekyll, how to use devlopr, devlopr, how to use devlopr-jekyll, devlopr-jekyll tutorial,best jekyll themes
+title:  "Ranking EPL Football Teams"
+summary: Using the Double-Poisson model to model teams' attacking and defensive strengths.
+# author: xplor4r
+date: '2023-09-26'
+category: data science
+thumbnail: /assets/img/football_betting.jpg
+keywords: statistics, poisson, football, odds, betting, data science, python
 usemathjax: true
-permalink: /blog/added-latex-equations-support/
+# permalink: /blog/added-latex-equations-support/
 ---
 
 ## You can now use LaTex to write equations :

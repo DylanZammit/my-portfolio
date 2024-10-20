@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  "Adding Multiple Categories in Posts"
-summary: "Learn how to add categories in posts"
-author: xplor4r
-date: '2021-02-28 1:35:23 +0530'
-category: ['jekyll','guides', 'sample_category']
-tags: jekyll
-thumbnail: /assets/img/posts/code.jpg
-keywords: devlopr jekyll, how to use devlopr, devlopr, how to use devlopr-jekyll, devlopr-jekyll tutorial,best jekyll themes, multi categories and tags
+title:  "Malta Traffic Optimisation"
+summary: "Using queues and simulation to optimise traffic light systems."
+# author: Dylan
+date: '2024-05-14'
+category: ['statistics', 'simulation', 'optimisation']
+tags: data science
+thumbnail: /assets/img/traffic_optimisation.jpg
+keywords: statistics, simulation, optimisation, data science, machine learning, analysis, monte carlo
 usemathjax: false
-permalink: /blog/adding-categories-tags-in-posts/
+# permalink: /blog/adding-categories-tags-in-posts/
 ---
 
 ## Adding Multiple Categories in Posts

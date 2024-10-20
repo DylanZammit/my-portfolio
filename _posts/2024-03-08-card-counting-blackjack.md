@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "Added Multi Author Support"
-summary: "Multi Author Support allows to create articles with different Authors"
-author: xplor4r
-date: '2020-10-25 1:35:23 +0530'
-category: jekyll
-thumbnail: /assets/img/posts/code.jpg
-keywords: devlopr jekyll, how to use devlopr, devlopr, how to use devlopr-jekyll, devlopr-jekyll tutorial,best jekyll themes, multi author
+title:  "Card Counting & Blackjack"
+summary: "Monte Carlo Simulation to find optimal Blackjack strategy."
+author: xplor4?r
+date: '2024-03-08'
+category: data science
+thumbnail: /assets/img/blackjack.jpg
+keywords: blackjack, monte carlo, simulation, python, optimisation, card counting
 usemathjax: true
-permalink: /blog/added-multi-author-support/
+# permalink: /blog/added-multi-author-support/
 ---
 
 ## Now Multiple Authors Can Create Articles:

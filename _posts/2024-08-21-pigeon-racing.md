@@ -2,7 +2,7 @@
 layout: post
 title:  Pigeon Racing and AI
 summary: "Getting Started using devlopr-jekyll"
-author: Dylan Zammit
+# author: Dylan Zammit
 date: '2024-08-21'
 category: ['data science']
 thumbnail: /assets/img/pigeon_racing.jpg
