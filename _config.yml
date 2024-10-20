@@ -74,22 +74,22 @@ author_project_details:
               - project_thumbnail: traffic_optimisation.jpg
                 project_title: Malta Traffic Optimisation
                 project_description: Using queues and simulation to optimise traffic light systems.
-                project_url: https://www.linkedin.com/pulse/malta-traffic-optimisation
+                project_url: https://www.linkedin.com/pulse/malta-traffic-optimisation-dylan-zammit
                 visibility: true
               - project_thumbnail: football_betting.png
                 project_title: Ranking EPL Football Teams
                 project_description: Using the Double-Poisson model to model teams' attacking and defensive strengths.
-                project_url: https://www.linkedin.com/pulse/ranking-epl-football-teams
+                project_url: https://www.linkedin.com/pulse/ranking-epl-football-teams-dylan-zammit
                 visibility: true
               - project_thumbnail: pigeon_racing.jpg
                 project_title: Pigeon Racing and AI
                 project_description: Analysing pigeon racing features and predicting speed and arrival rate.
-                project_url: https://www.linkedin.com/pulse/pigeon-racing-ai
+                project_url: https://www.linkedin.com/pulse/pigeon-racing-ai-dylan-zammit
                 visibility: true
               - project_thumbnail: blackjack.png
                 project_title: Card Counting & Blackjack
                 project_description: Use of simulation to find optimal Blackjack strategy.
-                project_url: https://www.linkedin.com/pulse/how-win-blackjack-51-time
+                project_url: https://www.linkedin.com/pulse/how-win-blackjack-51-time-dylan-zammit
                 visibility: true
 
 # social links
