@@ -91,6 +91,16 @@ author_project_details:
                 project_description: Use of simulation to find optimal Blackjack strategy.
                 project_url: https://www.linkedin.com/pulse/how-win-blackjack-51-time-dylan-zammit
                 visibility: true
+              - project_thumbnail: wedding.jpg.png
+                project_title: Optimal Wedding Seating
+                project_description: Using Graph Theory to find optimal wedding seating placement.
+                project_url: https://github.com/DylanZammit/OptimalWeddingSeating
+                visibility: true
+              - project_thumbnail: aoc2023.png
+                project_title: Advent of Code 2023
+                project_description: Daily coding challenges
+                project_url: https://github.com/DylanZammit/Advent-Of-Code-2023
+                visibility: true
 
 # social links
 # twitter_username: xplor4r
