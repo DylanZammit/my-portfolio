@@ -1,4 +1,4 @@
-title: devlopr
+title: Dylan Zammit Portfolio
 subtitle: A Portfolio Jekyll Theme Built for Developers
 description: >- # this means to ignore newlines until "baseurl:"
   devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
@@ -14,47 +14,59 @@ urls:
       url: /about
     - text: Blog
       url: /blog
-    - text: Gallery
-      url: /gallery
-    - text: Shop
-      url : /shop
-    - text: Contact
-      url : /contact
 
 
 # Edit Author details (For multi authors check _data/authors.yml)
 
-author_logo: profile.png
+author_logo: profile.jpg
 author: Dylan Zammit
-author_bio: Hi, my name is Dylan Zammit.
+author_bio: Hi, my name is Dylan Zammit, a Data Scientist, Python Developer and Squash player.
 author_email: "dylanzam@gmail.com"
 author_location: Malta
-author_website_url: "https://sujaykundu.com"
+author_website_url: "https://dylanzammit.github.io/"
 typewrite-text: devlopr is a jekyll framework built for developers. You can edit this in _config.yml file
 hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
 # Experiences
 author_work_experiences:
-            - company_name: Google
-              company_logo: google.png
+            - company_name: Gaming Innovation Group
+              company_logo: gig.jpg
               company_url: https://google.com
-              designation: Software Engineer
+              designation: Data Scientist
               description: Worked on various Google Products
               visibility: true
-            - company_name: Microsoft
-              company_logo: microsoft.png
+            - company_name: Tipico
+              company_logo: tipico.jpg
               company_url: https://microsoft.com
-              designation: Azure Developer
+              designation: BI Data Scientist
+              description: Worked on various Azure Cloud Products
+              visibility: true
+            - company_name: Mr Messaging
+              company_logo: mrm.jpg
+              company_url: https://microsoft.com
+              designation: Data Scientist
+              description: Worked on various Azure Cloud Products
+              visibility: true
+            - company_name: dormouse
+              company_logo: dormouse.jpg
+              company_url: https://microsoft.com
+              designation: Quantitative Analys
               description: Worked on various Azure Cloud Products
               visibility: true
 
 # Education
 author_education_details:
-              - college_logo: mit.png
-                college_name: MIT
-                college_url: https://mit.org
-                college_degree: CS Engineer
-                description: Bachelor of Technology
+              - college_logo: uom.png
+                college_name: University of Malta
+                college_url: https://www.um.edu.mt/
+                college_degree: MSc. Statistics
+                description: Gaussian Processes, Stochastic Differential Equations, Bayesian Statistics
+                visibility: true
+              - college_logo: uom.png
+                college_name: University of Malta
+                college_url: https://www.um.edu.mt/
+                college_degree: Maths and Statistics and Operations Research
+                description: Bachelor of Science
                 visibility: true
 
 # Projects
@@ -71,11 +83,11 @@ author_project_details:
                 visibility: true
 
 # social links
-twitter_username: xplor4r
-github_username:  sujaykundu777
-instagram_username: xplor4r
+# twitter_username: xplor4r
+github_username:  DylanZammit
+# instagram_username: xplor4r
 # facebook_username: johndoe
-# linkedin_username: johndoe
+linkedin_username: Dylan Zammit
 # behance_username: johndoe
 # medium_username: johndoe
 # telegram_username: johndoe
@@ -88,14 +100,14 @@ instagram_username: xplor4r
 # hyvor_talk_website_id: 476
 
 # wakatime username (coding activity)
-wakatime_username: dylanzammit
+# wakatime_username: dylanzammit
 
 # mailchimp embedded form url (newsletter):
-mailchimp_form_url: https://sujaykundu.us10.list-manage.com/subscribe/post?u=50bab1c85eae24ecfb0f68361&amp;id=3a2dd721d0
+# mailchimp_form_url: https://sujaykundu.us10.list-manage.com/subscribe/post?u=50bab1c85eae24ecfb0f68361&amp;id=3a2dd721d0
 
 # contact form - (choose formspress or getform)
 # getform_endpoint: 83b703c3-9e47-4df4-ac55-e24d7eb02abc
-formspree_email: johndoe@gmail.com
+formspree_email: dylanzam@gmail.com
 
 # releases - widget can be (sidebar, modal or embed)
 olvy_organization: devlopr
