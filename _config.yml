@@ -3,7 +3,7 @@ subtitle: Experience, Projects, Accomplishments
 description: >- # this means to ignore newlines until "baseurl:"
   A showcase of my experience and projects I worked on throughout the years.
 
-url: "https://dylanzammit.github.io/" # the base hostname & protocol for your site, e.g. https://example.github.io
+url: "https://dylanzammit.github.io//my-portfolio" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "/" # the subpath of your site, e.g. /blog
 
 # Navigation
@@ -12,8 +12,10 @@ urls:
       url: /
     - text: About
       url: /about
-    - text: Blog
-      url: /blog
+    - text: Projects
+      url: /projects
+    - text: Experience
+      url: /experience
 
 
 # Edit Author details (For multi authors check _data/authors.yml)
