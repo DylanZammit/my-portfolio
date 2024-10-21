@@ -3,8 +3,8 @@ subtitle: Experience, Projects, Accomplishments
 description: >- # this means to ignore newlines until "baseurl:"
   A showcase of my experience and projects I worked on throughout the years.
 
-url: "https://dylanzammit.github.io/" # the base hostname & protocol for your site, e.g. https://example.github.io
-baseurl: "my-portfolio/" # the subpath of your site, e.g. /blog
+url: "https://dylanzammit.github.io/my-portfolio" # the base hostname & protocol for your site, e.g. https://example.github.io
+baseurl: "/" # the subpath of your site, e.g. /blog
 
 # Navigation
 urls:
@@ -25,9 +25,9 @@ author: Dylan Zammit
 author_bio: Hi, my name is Dylan Zammit! I'm a Data Science enthusiast with a passion for coding and solving complex problems. I love diving into data, extracting insights, and building solutions that make a real impact.
 author_email: "dylanzam@gmail.com"
 author_location: Malta
-author_website_url: "https://dylanzammit.github.io//my-portfolio/"
+author_website_url: "https://dylanzammit.github.io/my-portfolio/"
 typewrite-text: Data Scientist, Python Developer and Squash player.
-hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
+hero_cover_img: cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
 # Experiences
 author_work_experiences:

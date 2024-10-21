@@ -6,7 +6,7 @@ summary: Quantifying and estimating volatility in finance using Gaussian Process
 date: '2022-07-03'
 category: data science, finance, statistics
 thumbnail: volatility.png
-keywords: statistics, quantitative finance, gaussian processes, volatility, Bayesian
+keywords: statistics
 usemathjax: true
 # permalink: https://www.linkedin.com/pulse/volatility-estimation-dylan-zammit
 
