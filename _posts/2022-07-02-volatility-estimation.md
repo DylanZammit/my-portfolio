@@ -9,6 +9,7 @@ thumbnail: volatility.png
 keywords: statistics, quantitative finance, gaussian processes, volatility, Bayesian
 usemathjax: true
 # permalink: https://www.linkedin.com/pulse/volatility-estimation-dylan-zammit
+
 ---
 
 ## You can now use LaTex to write equations :

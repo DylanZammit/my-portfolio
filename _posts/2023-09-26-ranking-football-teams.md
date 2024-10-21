@@ -8,6 +8,7 @@ category: data science
 thumbnail: football_betting.png
 keywords: statistics, poisson, football, odds, betting, data science, python
 usemathjax: true
+article_url: https://www.linkedin.com/pulse/ranking-epl-football-teams-dylan-zammit
 # permalink: /blog/added-latex-equations-support/
 ---
 

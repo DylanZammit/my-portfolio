@@ -7,7 +7,7 @@ date: '2024-08-21'
 category: ['data science']
 thumbnail: pigeon_racing.jpg
 keywords: ai, machine learning, analysis, python, pigeon racing
-permalink: https://www.linkedin.com/pulse/pigeon-racing-ai-dylan-zammit
+article_url: https://www.linkedin.com/pulse/pigeon-racing-ai-dylan-zammit-t4dfe?trk=public_post
 usemathjax: true
 ---
 

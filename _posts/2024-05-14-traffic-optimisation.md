@@ -10,6 +10,7 @@ thumbnail: traffic_optimisation.jpg
 keywords: statistics, simulation, optimisation, data science, machine learning, analysis, monte carlo
 usemathjax: false
 # permalink: /blog/adding-categories-tags-in-posts/
+article_url: https://www.linkedin.com/pulse/malta-traffic-optimisation-dylan-zammit-gt0zf?trk=public_post_feed-article-content
 ---
 
 ## Adding Multiple Categories in Posts

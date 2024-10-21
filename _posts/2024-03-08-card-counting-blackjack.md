@@ -9,6 +9,7 @@ thumbnail: blackjack.png
 keywords: blackjack, monte carlo, simulation, python, optimisation, card counting
 usemathjax: true
 # permalink: /blog/added-multi-author-support/
+article_url: https://www.linkedin.com/pulse/how-win-blackjack-51-time-dylan-zammit-w738f?trk=public_post
 ---
 
 ## Now Multiple Authors Can Create Articles:
