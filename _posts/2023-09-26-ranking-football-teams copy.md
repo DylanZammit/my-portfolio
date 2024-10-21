@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "Ranking EPL Football Teams"
-summary: Using the Double-Poisson model to model teams' attacking and defensive strengths.
+title:  "Volatility Estimation"
+summary: Quantifying and estimating volatility in finance using Gaussian Processes
 # author: xplor4r
-date: '2023-09-26'
-category: data science
-thumbnail: football_betting.png
-keywords: statistics, poisson, football, odds, betting, data science, python
+date: '2022-07-03'
+category: data science, finance, statistics
+thumbnail: volatility.png
+keywords: statistics, quantitative finance, gaussian processes, volatility, Bayesian
 usemathjax: true
-# permalink: /blog/added-latex-equations-support/
+# permalink: https://www.linkedin.com/pulse/volatility-estimation-dylan-zammit
 ---
 
 ## You can now use LaTex to write equations :

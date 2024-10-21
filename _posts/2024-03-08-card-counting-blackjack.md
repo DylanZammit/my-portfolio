@@ -5,7 +5,7 @@ summary: "Monte Carlo Simulation to find optimal Blackjack strategy."
 # author: xplor4?r
 date: '2024-03-08'
 category: data science
-thumbnail: /assets/img/blackjack.png
+thumbnail: blackjack.png
 keywords: blackjack, monte carlo, simulation, python, optimisation, card counting
 usemathjax: true
 # permalink: /blog/added-multi-author-support/

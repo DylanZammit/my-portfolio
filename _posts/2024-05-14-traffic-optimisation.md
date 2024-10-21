@@ -6,7 +6,7 @@ summary: "Using queues and simulation to optimise traffic light systems."
 date: '2024-05-14'
 category: ['statistics', 'simulation', 'optimisation']
 tags: data science
-thumbnail: /assets/img/traffic_optimisation.jpg
+thumbnail: traffic_optimisation.jpg
 keywords: statistics, simulation, optimisation, data science, machine learning, analysis, monte carlo
 usemathjax: false
 # permalink: /blog/adding-categories-tags-in-posts/

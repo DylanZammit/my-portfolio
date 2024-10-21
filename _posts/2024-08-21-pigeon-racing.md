@@ -5,7 +5,7 @@ summary: "Getting Started using devlopr-jekyll"
 # author: Dylan Zammit
 date: '2024-08-21'
 category: ['data science']
-thumbnail: /assets/img/pigeon_racing.jpg
+thumbnail: pigeon_racing.jpg
 keywords: ai, machine learning, analysis, python, pigeon racing
 permalink: https://www.linkedin.com/pulse/pigeon-racing-ai-dylan-zammit
 usemathjax: true
