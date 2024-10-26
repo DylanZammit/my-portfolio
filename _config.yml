@@ -108,7 +108,7 @@ author_project_details:
                 project_description: Using NLP to measure how positive/negative different news organisations are.
                 project_url: https://github.com/DylanZammit/facebook-posts-sentiment
                 visibility: true
-              - project_thumbnail: property_anlaysis.jpeg
+              - project_thumbnail: property_analysis.jpeg
                 project_title: Property Analysis
                 project_description: Scrape property prices, apply regression techniques, and show present using Dash website.
                 project_url: https://github.com/DylanZammit/property-analysis-v2
