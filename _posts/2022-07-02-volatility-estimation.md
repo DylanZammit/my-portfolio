@@ -4,10 +4,11 @@ title:  "Volatility Estimation"
 summary: Quantifying and estimating volatility in finance using Gaussian Processes
 # author: xplor4r
 date: '2022-07-03'
-category: data science, finance, statistics
+category: statistics
 thumbnail: volatility.png
 keywords: statistics
 usemathjax: true
+article_url: https://www.linkedin.com/pulse/volatility-estimation-dylan-zammit/?trackingId=Hj60coW4ZRrE0B9azOf%2BKg%3D%3D
 # permalink: https://www.linkedin.com/pulse/volatility-estimation-dylan-zammit
 
 ---
